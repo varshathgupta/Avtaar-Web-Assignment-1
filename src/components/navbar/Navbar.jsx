@@ -1,9 +1,10 @@
 import React from 'react'
+
 import './navbar.css'
 import logo from '../../images/logo.png'
-function Navbar() {
+const Navbar= () => {
   return (
-      <>
+      
       <container className="navbar">
       <img className="logo" src={logo} alt="log" />
       <a href="#" className="link1">
@@ -17,13 +18,12 @@ function Navbar() {
       </a>
       <a href="#" className="link4">
        CONTACT US  
-      </a>
-      
-
-      
+      </a>      
       </container>
-      </>
-  )
+
+     
+      
+  );
 }
 
 export default Navbar;
