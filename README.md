@@ -7,8 +7,8 @@
 - Material ui
 
 ## pics
-     ![](src/images/screenshot/1.png)
-     ![](src/images/screenshot/2.png)
+     ![screen shot 1](src/images/screenshot/1.png)
+     ![screen shot 2](src/images/screenshot/2.png)
 
 ## Installation
 
